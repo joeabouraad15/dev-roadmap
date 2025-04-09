@@ -1,0 +1,4 @@
+{
+  "title": "Frontend Roadmap",
+  "diagram": "graph TD\n  HTML --> CSS\n  CSS --> JavaScript\n  JavaScript --> React\n  React --> StateManagement\n  StateManagement --> Routing"
+}
